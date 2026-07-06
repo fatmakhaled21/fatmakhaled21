@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatma Khaled</h1>
 
-<h3 align="center">Frontend Developer | Angular Developer from Egypt 🇪🇬</h3>
+<h3 align="center">Frontend Developer | Angular Developer</h3>
 
 <p align="center">
 Passionate about building responsive, scalable, and user-friendly web applications using Angular and modern web technologies.
