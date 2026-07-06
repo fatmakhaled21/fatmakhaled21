@@ -1,12 +1,21 @@
-# Hi 👋, I'm Fatma Khaled
+<h1 align="center">Hi 👋, I'm Fatma Khaled</h1>
 
-## Front-End Developer | Angular Developer
+<h3 align="center">Frontend Developer | Angular Developer from Egypt 🇪🇬</h3>
 
-- 🌱 I’m currently learning Angular
-- 💻 I build responsive web applications
-- 🚀 My projects:
-  - E-Commerce Website
-  - Product Management System
-  - Landing Page
-- 📫 Email: awadf5584@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/......
+...
+
+## 👩‍💻 About Me
+
+...
+
+## 🛠️ Tech Stack
+
+...
+
+## 🚀 Featured Projects
+
+...
+
+## 📫 Contact Me
+
+...
