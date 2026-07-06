@@ -29,7 +29,7 @@ Passionate about building responsive, scalable, and user-friendly web applicatio
 ## 📫 Connect With Me
 
 - 📧 **Email:** awadf5584@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/fatma-khaled
+- 💼 **LinkedIn:** https://www.linkedin.com/in/fatma-khaled-22a420216/
 - 🐙 **GitHub:** https://github.com/fatmakhaled21
 
 ---
